@@ -12,7 +12,7 @@
    font-variant-ligatures: none;
    box-sizing: border-box;
    font-family: 'Roboto', sans-serif;
-   background-color: linear-gradient(to bottom, #6600ff 0%, #cc00ff 100%);
+   background-image: linear-gradient(to bottom, #6600ff 0%, #cc00ff 100%);
   
 /*   fixing horizontal scrolling */
    overflow-x: hidden;
